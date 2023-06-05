@@ -80,3 +80,12 @@ For punctuations, it is better to check its importance before preprocessing
 <p align="center">
   <img src="../res/img/img16.png" width="600"/>
 </p>
+
+# 3 Logistic Regression
+
+## 3.1 Overview
+
+<p align="center">
+  <img src="../res/img/img17.png" width="500"/>
+  <img src="../res/img/img18.png" width="500"/>
+</p>
