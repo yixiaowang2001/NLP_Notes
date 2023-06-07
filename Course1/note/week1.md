@@ -89,3 +89,25 @@ For punctuations, it is better to check its importance before preprocessing
   <img src="../res/img/img17.png" width="500"/>
   <img src="../res/img/img18.png" width="500"/>
 </p>
+
+## 3.2 Training
+
+<p align="center">
+  <img src="../res/img/img19.png" width="500"/>
+  <img src="../res/img/img20.png" width="500"/>
+</p>
+
+## 3.3 Testing
+
+Test the accuracy of the model
+
+<p align="center">
+  <img src="../res/img/img21.png" width="600"/>
+</p>
+
+## 3.4 Cost Function
+
+<p align="center">
+  <img src="../res/img/img22.png" width="500"/>
+  <img src="../res/img/img23.png" width="500"/>
+</p>
