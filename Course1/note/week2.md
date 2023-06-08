@@ -34,6 +34,8 @@
 
 # 3 Naive Bayes
 
+## 3.1 Introduction
+
 - Naive: features used for the classification are all independent
 - Pipeline:
 
@@ -65,4 +67,19 @@
 
 <p align="center">
   <img src="../res/img/img33.png" width="600"/>
+</p>
+
+## 3.2 Laplcian Smoothing
+
+- Formula
+
+<p align="center">
+  <img src="../res/img/img34.png" width="600"/>
+</p>
+
+- Calculation
+
+<p align="center">
+  <img src="../res/img/img35.png" width="500"/>
+  <img src="../res/img/img36.png" width="500"/>
 </p>
