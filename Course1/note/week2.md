@@ -1,0 +1,68 @@
+# Week 2
+
+# 1 Probability
+
+- Probability of the word "happy" be categorized as Positive or Negative
+
+<p align="center">
+  <img src="../res/img/img24.png" width="500"/>
+  <img src="../res/img/img25.png" width="500"/>
+</p>
+
+- Probability of the interestion
+
+<p align="center">
+  <img src="../res/img/img26.png" width="600"/>
+</p>
+
+# 2 Bayes' Rule
+
+- Conditional probabilities: P(A|B) = P(A & B) / P(B)
+  - Probability of B, given A happened
+  - Looking at the elements of set A, the chance that one also belongs to set B
+
+<p align="center">
+  <img src="../res/img/img27.png" width="500"/>
+  <img src="../res/img/img28.png" width="500"/>
+</p>
+
+- Bayes' rule: P(X|Y) = P(Y|X) \* P(X) / P(Y)
+
+<p align="center">
+  <img src="../res/img/img29.png" width="600"/>
+</p>
+
+# 3 Naive Bayes
+
+- Naive: features used for the classification are all independent
+- Pipeline:
+
+1. Count the pos/neg words
+
+<p align="center">
+  <img src="../res/img/img30.png" width="600"/>
+</p>
+
+2. Calculate the conditional probabilities
+
+<p align="center">
+  <img src="../res/img/img31.png" width="600"/>
+</p>
+
+3. Distinguish words:
+   1. Similar prob: neutral words
+   2. Pos > Neg: positive words
+   3. Neg > Pos: negative words
+   4. 0: cannot compare between two corpora
+
+<p align="center">
+  <img src="../res/img/img32.png" width="600"/>
+</p>
+
+4. To avoid this problem, we need to smooth the probability function.
+
+5. Get the value for the tweet: apply Naive Bayes inference condition rule
+
+<p align="center">
+  <img src="../res/img/img33.png" width="600"/>
+</p>
