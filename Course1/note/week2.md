@@ -130,3 +130,68 @@
 <p align="center">
   <img src="../res/img/img44.png" width="600"/>
 </p>
+
+## 3.5 Test Naive Bayes
+
+<p align="center">
+  <img src="../res/img/img45.png" width="500"/>
+  <img src="../res/img/img46.png" width="500"/>
+</p>
+
+# 4 Applications
+
+- Author identification
+- Spam filtering
+
+<p align="center">
+  <img src="../res/img/img47.png" width="600"/>
+</p>
+
+- Information retrieval
+
+<p align="center">
+  <img src="../res/img/img48.png" width="600"/>
+</p>
+
+- Word disambiguation
+
+<p align="center">
+  <img src="../res/img/img49.png" width="600"/>
+</p>
+
+# 5 Naive Base Assumptions
+
+- Independence
+  - Assuming words are independnet
+  - May give equal probabilities to each word (if Naive Bayes is used to predict the word)
+
+<p align="center">
+  <img src="../res/img/img50.png" width="500"/>
+  <img src="../res/img/img51.png" width="500"/>
+</p>
+
+- Relative frequencies in your corpus
+
+  - Relies on the distributions of the training datasets
+  - Most avaliable datasets now are artificially equally distributed
+
+# 6 Error Analysis
+
+- Removing punctuation and stop words
+
+<p align="center">
+  <img src="../res/img/img52.png" width="500"/>
+  <img src="../res/img/img53.png" width="500"/>
+</p>
+
+- Word order
+
+<p align="center">
+  <img src="../res/img/img54.png" width="600"/>
+</p>
+
+- Adversarial attacks
+
+<p align="center">
+  <img src="../res/img/img55.png" width="600"/>
+</p>
