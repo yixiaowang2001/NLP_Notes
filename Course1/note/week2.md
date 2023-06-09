@@ -83,3 +83,50 @@
   <img src="../res/img/img35.png" width="500"/>
   <img src="../res/img/img36.png" width="500"/>
 </p>
+
+## 3.3 Log Likelihood
+
+- Ratio of probabilities
+
+<p align="center">
+  <img src="../res/img/img37.png" width="600"/>
+</p>
+
+- Naive Bayes Inference
+  - Simple, fast, and powerful baseline
+  - A probabilistic model for classification
+
+<p align="center">
+  <img src="../res/img/img37.png" width="600"/>
+</p>
+
+- Log likelihood
+  - Product may contain numerical underflow (the number is too small to be stored)
+
+<p align="center">
+  <img src="../res/img/img38.png" width="600"/>
+</p>
+
+- Calculating lambda
+
+<p align="center">
+  <img src="../res/img/img39.png" width="600"/>
+</p>
+
+## 3.4 Training Naive Bayes
+
+- Pipeline
+
+<p align="center">
+  <img src="../res/img/img40.png" width="500"/>
+  <img src="../res/img/img41.png" width="500"/>
+</p>
+
+<p align="center">
+  <img src="../res/img/img42.png" width="500"/>
+  <img src="../res/img/img43.png" width="500"/>
+</p>
+
+<p align="center">
+  <img src="../res/img/img44.png" width="600"/>
+</p>
