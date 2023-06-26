@@ -101,3 +101,17 @@
 <p align="center">
   <img src="../res/img/img88.png" width="600"/>
 </p>
+
+## 2.6 Searching Documents
+
+- Document representation
+
+<p align="center">
+  <img src="../res/img/img89.png" width="600"/>
+</p>
+
+- Implementation
+
+<p align="center">
+  <img src="../res/img/img90.png" width="600"/>
+</p>
