@@ -32,4 +32,32 @@
   <img src="../res/img/img6.png" width="600"/>
 </p>
 
-4.
+4. Calculate word probabilities (for each candidate, find its probability; pick the one with the highest probability)
+
+<p align="center">
+  <img src="../res/img/img7.png" width="500"/>
+  <img src="../res/img/img8.png" width="500"/>
+</p>
+
+# 2 Dynamic programming
+
+## 2.1 Process
+
+<p align="center">
+  <img src="../res/img/img10.png" width="600"/>
+</p>
+
+## 2.2 Minimum Edit Distance Table
+
+- Tabular
+
+<p align="center">
+  <img src="../res/img/img11.png" width="500"/>
+  <img src="../res/img/img12.png" width="500"/>
+</p>
+
+- Dynamic programming
+
+<p align="center">
+  <img src="../res/img/img13.png" width="500"/>
+</p>
