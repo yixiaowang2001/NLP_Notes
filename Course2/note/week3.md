@@ -1,79 +1,85 @@
 # Week3
 
-# 1 Vector Space Models
+# 1 N-Grams
+
+## 1.1 Backgrounds
+
+- Language models / autocompletion
 
 <p align="center">
-  "You shall know a word by the compay it keeps" -- Firth 1957
+  <img src="../res/img/img42.png" width="500"/>
+  <img src="../res/img/img43.png" width="500"/>
 </p>
 
-## 1.1 Word by Word / Word by Document
-
-- Word by word design
+## 1.2 Introduction
 
 <p align="center">
-  <img src="../res/img/img56.png" width="600"/>
+  <img src="../res/img/img44.png" width="500"/>
+  <img src="../res/img/img45.png" width="500"/>
 </p>
 
-- Word by document design
+- Probability of unigram
+
+<p align="center">
+  <img src="../res/img/img46.png" width="600"/>
+</p>
+
+- Probability of bigram / trigram
+
+<p align="center">
+  <img src="../res/img/img47.png" width="500"/>
+  <img src="../res/img/img48.png" width="500"/>
+</p>
+
+- Probability of ngram
+
+<p align="center">
+  <img src="../res/img/img49.png" width="600"/>
+</p>
+
+## 1.3 Sequence Probabilities
+
+- Formula
+
+<p align="center">
+  <img src="../res/img/img50.png" width="600"/>
+</p>
+
+- Example
+
+<p align="center">
+  <img src="../res/img/img51.png" width="500"/>
+  <img src="../res/img/img52.png" width="500"/>
+</p>
+
+- Approximation
+
+<p align="center">
+  <img src="../res/img/img53.png" width="600"/>
+</p>
+
+## 1.4 Starting and Ending Sentences
+
+- Start
+
+<p align="center">
+  <img src="../res/img/img54.png" width="600"/>
+</p>
+
+- End
+
+<p align="center">
+  <img src="../res/img/img55.png" width="500"/>
+  <img src="../res/img/img56.png" width="500"/>
+</p>
 
 <p align="center">
   <img src="../res/img/img57.png" width="500"/>
   <img src="../res/img/img58.png" width="500"/>
 </p>
 
-# 2 Distance Formula
-
-## 2.1 Euclidean Distance
-
-- Biased by the size difference between the representations
+- Example
 
 <p align="center">
-  <img src="../res/img/img59.png" width="500"/>
-  <img src="../res/img/img60.png" width="500"/>
-</p>
-
-## 2.2 Cosine Similarities
-
-- **ISN'T** biased by the size difference between the representations
-
-```Python
-cosine_similarity = np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
-```
-
-<p align="center">
-  <img src="../res/img/img61.png" width="500"/>
-  <img src="../res/img/img62.png" width="500"/>
-</p>
-
-## 2.3 Manipulating Words in Vector Space
-
-<p align="center">
-  <img src="../res/img/img63.png" width="600"/>
-</p>
-
-## 2.4 Visualization and PCA
-
-### 2.4.1 Visualization
-
-<p align="center">
-  <img src="../res/img/img64.png" width="500"/>
-  <img src="../res/img/img65.png" width="500"/>
-</p>
-
-### 2.4.2 PCA
-
-- Get uncorrelated features
-- Reduce dimensions while retaining as much information as possible
-
-<p align="center">
-  <img src="../res/img/img66.png" width="600"/>
-</p>
-
-- Eigenvector: uncorrelated features for your data
-- Eigenvalue: the amount of information retained by each feature
-- Dot product gives the projection on uncorrelated features
-
-<p align="center">
-  <img src="../res/img/img67.png" width="500"/>
-  <img src="../res/img/img68.png" width="500"/>
+  <img src="../res/img/img59.png" width="600"/>
 </p>
