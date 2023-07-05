@@ -166,10 +166,75 @@
 - Training process
   - Forward propagation
   - Cost
-  - Backward propagation and gradient descent
+  - Backpropagation and gradient descent
 
 <p align="center">
   <img src="../res/img/img109.png" width="600"/>
 </p>
 
 - Minize the cost
+
+<p align="center">
+  <img src="../res/img/img110.png" width="600"/>
+</p>
+
+- Backpropagation & gradient descent
+
+<p align="center">
+  <img src="../res/img/img111.png" width="500"/>
+  <img src="../res/img/img112.png" width="500"/>
+</p>
+
+## 2.5 Extracting Word Embedding Vectors
+
+- Option 1
+
+<p align="center">
+  <img src="../res/img/img113.png" width="600"/>
+</p>
+
+- Option 2
+
+<p align="center">
+  <img src="../res/img/img114.png" width="600"/>
+</p>
+
+- Option 3
+
+<p align="center">
+  <img src="../res/img/img115.png" width="600"/>
+</p>
+
+# 3 Evaluate Word Embeddings
+
+## 3.1 Intrinsic Evaluation
+
+- General methods
+
+<p align="center">
+  <img src="../res/img/img116.png" width="600"/>
+</p>
+
+- Analogies
+
+<p align="center">
+  <img src="../res/img/img117.png" width="600"/>
+</p>
+
+- Clustering
+
+<p align="center">
+  <img src="../res/img/img118.png" width="600"/>
+</p>
+
+- Visualization
+
+<p align="center">
+  <img src="../res/img/img119.png" width="600"/>
+</p>
+
+## 3.2 Extrinsic Evaluation
+
+<p align="center">
+  <img src="../res/img/img120.png" width="600"/>
+</p>
