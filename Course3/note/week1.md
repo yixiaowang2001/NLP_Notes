@@ -27,4 +27,42 @@
   <img src="../res/img/img4.png" width="600"/>
 </p>
 
-### 1.2.2 Why Trax?
+### 1.2.2 Python class
+
+<p align="center">
+  <img src="../res/img/img5.png" width="600"/>
+</p>
+
+### 1.2.3 Dense layer and ReLU layer
+
+<p align="center">
+  <img src="../res/img/img6.png" width="500"/>
+  <img src="../res/img/img7.png" width="500"/>
+</p>
+
+### 1.2.4 Serial layer
+
+<p align="center">
+  <img src="../res/img/img8.png" width="600"/>
+</p>
+
+### 1.2.5 Other layers
+
+- Embedding layer
+
+<p align="center">
+  <img src="../res/img/img9.png" width="600"/>
+</p>
+
+- Mean layer (no trainable parameters)
+
+<p align="center">
+  <img src="../res/img/img10.png" width="600"/>
+</p>
+
+## 1.3 Training
+
+<p align="center">
+  <img src="../res/img/img11.png" width="500"/>
+  <img src="../res/img/img12.png" width="500"/>
+</p>
