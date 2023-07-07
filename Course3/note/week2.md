@@ -66,3 +66,43 @@
   <img src="../res/img/img24.png" width="500"/>
   <img src="../res/img/img25.png" width="500"/>
 </p>
+
+## 2.5 Implementation Note
+
+- For loop -> but framework needs this kind of abstraction
+- tf.scan() mimics RNNs
+
+<p align="center">
+  <img src="../res/img/img26.png" width="600"/>
+</p>
+
+## 2.6 Gated Recurrent Units (GRU)
+
+- Introduction
+
+<p align="center">
+  <img src="../res/img/img27.png" width="600"/>
+</p>
+
+- Comparison
+
+<p align="center">
+  <img src="../res/img/img28.png" width="500"/>
+  <img src="../res/img/img29.png" width="500"/>
+</p>
+
+## 2.7 Deep and Bidirectional RNNs
+
+- Bidirectional RNNs (starts propagation from both sides)
+
+<p align="center">
+  <img src="../res/img/img30.png" width="500"/>
+  <img src="../res/img/img31.png" width="500"/>
+</p>
+
+- Deep RNNs (multiple RNNs (can be more than one))
+
+<p align="center">
+  <img src="../res/img/img32.png" width="500"/>
+  <img src="../res/img/img33.png" width="500"/>
+</p>
