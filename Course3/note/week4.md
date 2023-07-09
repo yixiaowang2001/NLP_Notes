@@ -47,3 +47,54 @@
   <img src="../res/img/img60.png" width="500"/>
   <img src="../res/img/img61.png" width="500"/>
 </p>
+
+## 1.5 Computing The Cost
+
+- Computing the cost
+
+<p align="center">
+  <img src="../res/img/img62.png" width="500"/>
+  <img src="../res/img/img63.png" width="500"/>
+</p>
+
+- Hard negative mining
+
+<p align="center">
+  <img src="../res/img/img64.png" width="500"/>
+  <img src="../res/img/img65.png" width="500"/>
+</p>
+
+- Overall cost
+
+<p align="center">
+  <img src="../res/img/img66.png" width="600"/>
+</p>
+
+## 1.6 One Shot Learning
+
+- Difference between classification & one shot learning
+
+<p align="center">
+  <img src="../res/img/img67.png" width="600"/>
+</p>
+
+- No need for retraining
+
+<p align="center">
+  <img src="../res/img/img68.png" width="600"/>
+</p>
+
+## 1.7 Training / Testing
+
+- Prepare batches
+
+<p align="center">
+  <img src="../res/img/img69.png" width="500"/>
+  <img src="../res/img/img70.png" width="500"/>
+</p>
+
+- Siamese model
+
+<p align="center">
+  <img src="../res/img/img71.png" width="600"/>
+</p>
