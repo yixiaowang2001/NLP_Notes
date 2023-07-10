@@ -1,6 +1,6 @@
 # Natural Language Processing with Sequence Models
 
-Coursera course from DeepLearning.AI ([link](https://www.coursera.org/learn/sequence-models-in-nlpp))
+Coursera course from DeepLearning.AI ([link](https://www.coursera.org/learn/sequence-models-in-nlp))
 
 <div align="center">
 
