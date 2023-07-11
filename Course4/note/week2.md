@@ -71,7 +71,9 @@
   <img src="../res/img/img57.png" width="500"/>
 </p>
 
-## 2.3 Scaled Dot Product Attention
+# 3 Attention
+
+## 3.1 Scaled Dot Product Attention
 
 - Recap
 
@@ -89,4 +91,80 @@
 
 <p align="center">
   <img src="../res/img/img60.png" width="600"/>
+</p>
+
+## 3.2 Masked Self Attention
+
+- Encoder-decoder attention
+
+<p align="center">
+  <img src="../res/img/img61.png" width="600"/>
+</p>
+
+- Self attention
+
+<p align="center">
+  <img src="../res/img/img62.png" width="600"/>
+</p>
+
+- Masked self-attention math
+
+<p align="center">
+  <img src="../res/img/img63.png" width="600"/>
+</p>
+
+## 3.3 Multi-head Attention
+
+- Overview
+
+<p align="center">
+  <img src="../res/img/img64.png" width="500"/>
+  <img src="../res/img/img65.png" width="500"/>
+</p>
+
+- Multi-head attention structure
+
+<p align="center">
+  <img src="../res/img/img66.png" width="600"/>
+</p>
+
+# 4 Transformer Decoder
+
+- General
+
+<p align="center">
+  <img src="../res/img/img67.png" width="500"/>
+  <img src="../res/img/img68.png" width="500"/>
+</p>
+
+- Decoder block
+
+<p align="center">
+  <img src="../res/img/img69.png" width="600"/>
+</p>
+
+- Feed forward layer
+
+<p align="center">
+  <img src="../res/img/img70.png" width="600"/>
+</p>
+
+# 5 Transformer Summarizer
+
+- Data processing
+
+<p align="center">
+  <img src="../res/img/img71.png" width="600"/>
+</p>
+
+- Cost Function
+
+<p align="center">
+  <img src="../res/img/img72.png" width="600"/>
+</p>
+
+- Inference
+
+<p align="center">
+  <img src="../res/img/img73.png" width="600"/>
 </p>
