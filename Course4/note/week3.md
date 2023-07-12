@@ -202,3 +202,89 @@
   <img src="../res/img/img111.png" width="500"/>
   <img src="../res/img/img112.png" width="500"/>
 </p>
+
+## 4.5 Multi-task Training Strategy
+
+- Performance
+
+<p align="center">
+  <img src="../res/img/img113.png" width="500"/>
+  <img src="../res/img/img114.png" width="500"/>
+</p>
+
+- Data training strategies
+
+<p align="center">
+  <img src="../res/img/img115.png" width="500"/>
+  <img src="../res/img/img116.png" width="500"/>
+</p>
+
+- Fine-tune
+  - The main objective of the multitasking training strategy is to improve the performance of the various tasks by learning them together
+
+<p align="center">
+  <img src="../res/img/img117.png" width="600"/>
+</p>
+
+# 5 GLUE Benchmark
+
+<p align="center">
+  <img src="../res/img/img118.png" width="500"/>
+  <img src="../res/img/img119.png" width="500"/>
+</p>
+
+# 6 Question Answering
+
+- Model
+
+<p align="center">
+  <img src="../res/img/img120.png" width="600"/>
+</p>
+
+- Data
+
+<p align="center">
+  <img src="../res/img/img121.png" width="600"/>
+</p>
+
+- Implementation
+
+<p align="center">
+  <img src="../res/img/img122.png" width="600"/>
+</p>
+
+# 7 Hugging Face
+
+## 7.1 Introduction
+
+<p align="center">
+  <img src="../res/img/img123.png" width="500"/>
+  <img src="../res/img/img124.png" width="500"/>
+</p>
+
+- Fine-tune
+
+<p align="center">
+  <img src="../res/img/img125.png" width="500"/>
+</p>
+
+## 7.2 Pipeline
+
+- Tasks
+
+<p align="center">
+  <img src="../res/img/img126.png" width="500"/>
+  <img src="../res/img/img127.png" width="500"/>
+</p>
+
+- Checkpoints
+
+<p align="center">
+  <img src="../res/img/img128.png" width="500"/>
+</p>
+
+- Model hub
+
+<p align="center">
+  <img src="../res/img/img129.png" width="500"/>
+</p>
