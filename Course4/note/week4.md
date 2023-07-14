@@ -79,3 +79,26 @@
 <p align="center">
   <img src="../res/img/img145.png" width="600"/>
 </p>
+
+# 3 Reformer
+
+- Application
+
+<p align="center">
+  <img src="../res/img/img146.png" width="600"/>
+</p>
+
+- Structure
+
+<p align="center">
+  <img src="../res/img/img147.png" width="600"/>
+</p>
+
+- Attention
+  - How standard attention takes longer as sequence length increases
+  - However, LSH attention taks roughly the same amout of time as sequence length increases
+  - The only difference is more hashes taking slightly longer than fewer hashes regaredless of the sequence length
+
+<p align="center">
+  <img src="../res/img/img148.png" width="600"/>
+</p>
